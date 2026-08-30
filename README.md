@@ -1,4 +1,3 @@
-# Hi, I'm Selim Şahin 👋
 
 ## About Me
 - Holds a master's degree in electronics engineering (computational electromagnetism specialization)
